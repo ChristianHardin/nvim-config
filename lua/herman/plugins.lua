@@ -57,4 +57,7 @@ require("lazy").setup({
         event = "InsertEnter",
         opts = {} -- this is equalent to setup({}) function
     },
+
+    {"zbirenbaum/copilot.lua"},
+    {"zbirenbaum/copilot-cmp"},
 })
